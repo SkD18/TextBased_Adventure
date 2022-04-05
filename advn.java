@@ -112,6 +112,7 @@ public class advn {
 		System.out.println("######################");
 		System.out.println("# THANKS FOR PLAYING #");
 		System.out.println("######################");
+		in.close();
 	}
 }
 
